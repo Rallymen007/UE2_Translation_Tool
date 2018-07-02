@@ -1,0 +1,5 @@
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\C5\bin\Debug\C5.dll
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\C5\bin\Debug\C5.pdb
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\C5\obj\Debug\C5.csprojResolveAssemblyReference.cache
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\C5\obj\Debug\C5.dll
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\C5\obj\Debug\C5.pdb

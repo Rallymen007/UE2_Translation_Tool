@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B311476F-3B13-4485-AC30-326BE25FA91F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>C5</RootNamespace>
+    <AssemblyName>C5</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="arrays\ArrayList.cs" />
+    <Compile Include="arrays\CircularQueue.cs" />
+    <Compile Include="arrays\HashedArrayList.cs" />
+    <Compile Include="arrays\SortedArray.cs" />
+    <Compile Include="Collections.cs" />
+    <Compile Include="comparers\ComparerFactory.cs" />
+    <Compile Include="comparers\InternalComparer.cs" />
+    <Compile Include="comparers\InternalEqualityComparer.cs" />
+    <Compile Include="Debug.cs" />
+    <Compile Include="Dictionaries.cs" />
+    <Compile Include="Enums.cs" />
+    <Compile Include="Events.cs" />
+    <Compile Include="Exceptions.cs" />
+    <Compile Include="Formatting.cs" />
+    <Compile Include="Hashers.cs" />
+    <Compile Include="hashing\HashBag.cs" />
+    <Compile Include="hashing\HashDictionary.cs" />
+    <Compile Include="hashing\HashTable.cs" />
+    <Compile Include="heaps\IntervalHeap.cs" />
+    <Compile Include="Interfaces.cs" />
+    <Compile Include="linkedlists\HashedLinkedList.cs" />
+    <Compile Include="linkedlists\LinkedList.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="MappedEnumerators.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Random.cs" />
+    <Compile Include="Records.cs" />
+    <Compile Include="Sorting.cs" />
+    <Compile Include="trees\RedBlackTreeBag.cs" />
+    <Compile Include="trees\RedBlackTreeDictionary.cs" />
+    <Compile Include="trees\RedBlackTreeSet.cs" />
+    <Compile Include="ViewSupport.cs" />
+    <Compile Include="WrappedArray.cs" />
+    <Compile Include="Wrappers.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="public.pk" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

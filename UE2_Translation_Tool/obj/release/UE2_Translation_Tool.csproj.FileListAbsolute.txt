@@ -1,0 +1,11 @@
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\UE2_Translation_Tool\bin\Release\UE2_Translation_Tool.exe.config
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\UE2_Translation_Tool\bin\Release\UE2_Translation_Tool.exe
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\UE2_Translation_Tool\bin\Release\UE2_Translation_Tool.pdb
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\UE2_Translation_Tool\bin\Release\C5.dll
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\UE2_Translation_Tool\bin\Release\C5.pdb
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\UE2_Translation_Tool\obj\Release\UE2_Translation_Tool.csprojResolveAssemblyReference.cache
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\UE2_Translation_Tool\obj\Release\UE2_Translation_Tool.Properties.Resources.resources
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\UE2_Translation_Tool\obj\Release\UE2_Translation_Tool.csproj.GenerateResource.Cache
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\UE2_Translation_Tool\obj\Release\UE2_Translation_Tool.exe
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\UE2_Translation_Tool\obj\Release\UE2_Translation_Tool.pdb
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\UE2_Translation_Tool\obj\Release\UE2_Translation_Tool.MainWindow.resources

@@ -1,0 +1,4 @@
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\C5\bin\Release\C5.dll
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\C5\bin\Release\C5.pdb
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\C5\obj\Release\C5.dll
+C:\Users\Rallymen007\Documents\Visual Studio 2012\Projects\UE2_Translation_Tool\C5\obj\Release\C5.pdb
